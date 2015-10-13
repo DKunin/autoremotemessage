@@ -1,14 +1,13 @@
 {
-  "name": "autoRemoteNotification",
+  "name": "autoRemoteMessage",
   "version": "1.0.1",
-  "description": "Simple module for autoremote notification",
-  "repository": "https://github.com/DKunin/autoremotenotification",
+  "description": "Simple module for autoremote message",
+  "repository": "https://github.com/DKunin/autoremotemessage",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "DKunin",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^1.1.0",
     "cli-spinner": "^0.2.1",
